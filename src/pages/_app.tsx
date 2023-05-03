@@ -16,7 +16,7 @@ export default function App({ Component, pageProps }: AppProps) {
                 }
             `}</style>
             <Navbar />
-            <div className="grow bg-red-500">
+            <div className="grow bg-neutral-100">
                 <Component {...pageProps} />
             </div>
             <Footer />
