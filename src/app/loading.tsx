@@ -1,5 +1,5 @@
 const Loading = (): JSX.Element => {
-    return <>Loading...</>
+    return <p>Loading...</p>
 }
 
 export default Loading
